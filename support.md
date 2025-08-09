@@ -39,7 +39,7 @@ Please email cadaptiv@gmail.com with a detailed description of the issue, includ
 
 ## Additional Resources
 
-- **Real-Time Updates**: Follow us on X @RealSleepSolver for real-time updates and examples.
+- **Real-Time Updates**: Follow us on [X](https://x.com/RealSleepSolver) for real-time updates and examples.
 
 ## Feedback
 
