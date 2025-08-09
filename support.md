@@ -11,7 +11,7 @@ SleepSolver empowers you to take control of your sleep health by tracking your h
 For any questions or assistance, please reach out to us at:
 
 - **Email**: cadaptiv@gmail.com
-- X: @RealSleepSolver
+- X: [@RealSleepSolver](https://x.com/RealSleepSolver)
 
 We aim to respond within 24-48 hours. Please include as much detail as possible, such as your account ID, a description of the issue, and any relevant screenshots.
 
@@ -39,7 +39,7 @@ Please email cadaptiv@gmail.com with a detailed description of the issue, includ
 
 ## Additional Resources
 
-- **Real-Time Updates**: Follow us on [X](https://x.com/RealSleepSolver) for real-time updates and examples.
+- **Real-Time Updates**: Follow us on [@RealSleepSolver](https://x.com/RealSleepSolver) for real-time updates and examples.
 
 ## Feedback
 
