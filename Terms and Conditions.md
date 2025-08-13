@@ -92,7 +92,7 @@ The Service is not intended to provide medical advice, diagnosis, or treatment. 
 
 ## HealthKit Data
 
-The Application may access health and fitness data from Apple’s HealthKit with Your explicit consent, obtained through HealthKit permissions, for purposes such as sleep tracking. We do not store, share, or transmit Your HealthKit data to Our servers or third parties. All data processing occurs on Your Device, in compliance with Apple’s HealthKit guidelines and applicable privacy laws (e.g., PIPEDA, GDPR if serving EU users).
+The Application may access health and fitness data from Apple’s HealthKit with Your explicit consent, obtained through HealthKit permissions, for purposes such as sleep tracking. We do not store, share, or transmit Your HealthKit data to Our servers or third parties. All data processing occurs on Your Device.
 
 ## Intellectual Property
 
